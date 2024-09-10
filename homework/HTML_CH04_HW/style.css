@@ -1,0 +1,30 @@
+p{
+ font-size:200% ;
+}
+p {
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px black;
+    background-color: purple;
+    
+    
+    
+  }
+  img {
+    float: left;
+  }
+  
+   .center {
+    text-align: center;
+    color: lime;
+    text-shadow: 2px 2px red;
+     
+      
+    
+    
+  } 
+  div > p {
+    background-color: skyblue;
+  }
+  
+  
